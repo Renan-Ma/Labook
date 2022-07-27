@@ -1,5 +1,8 @@
 # Projeto: Labook
 
+[Documentação API](https://documenter.getpostman.com/view/20354712/UzQoTo8T)
+
+
 ## Requisitos
 
 O LaBook será uma rede social com o objetivo de promover a conexão e interação entre seus mais diversos usuários. Os usuários podem criar posts de dois tipos ("evento" ou "normal"), comentá-los e curti-los também.
@@ -33,7 +36,7 @@ O LaBook será uma rede social com o objetivo de promover a conexão e interaç�
 - moment
 
 
-[Documentação API](https://documenter.getpostman.com/view/20354712/UzQoTo8T)
+
 
 ## 👨‍💻 Desenvolvedor:
 
