@@ -40,4 +40,5 @@ O LaBook será uma rede social com o objetivo de promover a conexão e interaç�
 
 ## 👨‍💻 Desenvolvedor:
 
-| [Renan Martinez](https://github.com/Renan-Ma)
+| [<img src="https://avatars.githubusercontent.com/u/69327864?s=96&v=4" width=115><br><sub>Renan Alencar</sub>](https://github.com/Renan-Ma)
+| :---: | 
